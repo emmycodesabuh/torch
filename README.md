@@ -1,1 +1,1 @@
-##Simple Flashlight app developed with AIDE 
+Simple Flashlight app developed with AIDE
